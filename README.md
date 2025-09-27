@@ -4,7 +4,7 @@ UX/UI Designer em formação, apaixonada por criar experiências digitais centra
 🎓 Cursando Design Digital pela Universidade Federal do Ceará (UFC)
 🎯 Curto trabalhar com prototipação e explorar como tecnologia pode ser mais acessível e humana.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/marisqra=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marisqra&theme=dark)](https://git.io/streak-stats)
 
 
 <!--
