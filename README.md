@@ -1,5 +1,5 @@
 ## Hi there 👋
-UX/UI Designer em formação, apaixonada por criar experiências digitais centradas no usuário.
+**UX/UI Designer em formação, buscando sempre aprender e evoluir no mundo do design digital**
 
 🎓 Cursando Design Digital pela Universidade Federal do Ceará (UFC)  
 🎯 Curto trabalhar com prototipação e explorar como tecnologia pode ser mais acessível e humana.
