@@ -1,7 +1,7 @@
 ## Hi there 👋
 UX/UI Designer em formação, apaixonada por criar experiências digitais centradas no usuário.
 
-🎓 Cursando Design Digital pela Universidade Federal do Ceará (UFC)
+🎓 Cursando Design Digital pela Universidade Federal do Ceará (UFC)  
 🎯 Curto trabalhar com prototipação e explorar como tecnologia pode ser mais acessível e humana.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marisqra&theme=dark)](https://git.io/streak-stats)
